@@ -1,0 +1,83 @@
+"PK_MESURE";"FPK_NATURA";"SITECODE";"LB_CODE_MESURE";"LIBELLE_MESURE_FR";"COMMENTAIRE_MESURE";"HABITATS";"ESPECES"
+"6";"407";"FR2200377";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";"Pâturage des habitats de pelouses";";6110;6210";
+"11";"415";"FR2200388";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;";6410;6510";
+"12";"415";"FR2200388";"4.0       ";"Autres mesures liées aux zones humides";"Entretien de mares";";3140";
+"34245";"864";"FR9400573";"3.2       ";"Ajustement de la gestion forestière";;";9260;92A0;9340";
+"34248";"864";"FR9400573";"7.0       ";"Autres mesures liées à la gestion des espèces";"introduction de truites souches Corse";;";5349"
+"34249";"864";"FR9400573";"6.1       ";"Établissement d'aires/espaces protégé(e)s ";"exclos pour astragale";;";6269"
+"34251";"6759";"FR2410003";"2.2       ";"Ajustement des modes de culture";;;
+"34252";"6759";"FR2410003";"4.0       ";"Autres mesures liées aux zones humides";;;
+"34273";"7330";"FR2112004";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34274";"7330";"FR2112004";"4.1       ";"Restauration / amélioration de la qualité de l'eau";;;
+"34275";"7331";"FR2112005";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34276";"7331";"FR2112005";"3.2       ";"Ajustement de la gestion forestière";;;
+"34277";"7331";"FR2112005";"4.1       ";"Restauration / amélioration de la qualité de l'eau";;;
+"34278";"7331";"FR2112005";"4.2       ";"Restauration / amélioration du régime hydrologique";;;
+"34279";"7332";"FR2112006";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34280";"7332";"FR2112006";"3.2       ";"Ajustement de la gestion forestière";;;
+"34281";"7332";"FR2112006";"4.1       ";"Restauration / amélioration de la qualité de l'eau";;;
+"34282";"7332";"FR2112006";"4.2       ";"Restauration / amélioration du régime hydrologique";;;
+"34283";"7333";"FR2112008";"4.1       ";"Restauration / amélioration de la qualité de l'eau";;;
+"34284";"7333";"FR2112008";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34285";"7333";"FR2112008";"3.2       ";"Ajustement de la gestion forestière";;;
+"34286";"7333";"FR2112008";"4.2       ";"Restauration / amélioration du régime hydrologique";;;
+"34287";"7334";"FR2112009";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";"Milieux agricoles :
+
+- Maintien des surfaces en herbe
+
+- Pâturage extensif ou fauche tardive de certaines parcelles
+
+- Laisser des bandes non fauchées dans le cas de prairies fauchées vers le 20 mai
+
+- Maintien des haies et bosquets
+
+- Maintien des arbres";;
+"34288";"7334";"FR2112009";"3.2       ";"Ajustement de la gestion forestière";"Bois :
+- Privilégier la régénération naturelle d' essences locales
+- Favoriser la diversité dans la structure des peuplements et le mélange d'essences
+- Maintenir ou ouvrir des clairières et façonner des lisières 
+- Favoriser les ripisylves
+- Adapter les ";;
+"34289";"7334";"FR2112009";"7.2       ";"Régulation / gestion de la pêche en eau douce";"Etangs :
+
+- Maintien d'une pisciculture extensive";;
+"34290";"7334";"FR2112009";"4.1       ";"Restauration / amélioration de la qualité de l'eau";"Etangs :
+- Apports d'amendements contrôlés";;
+"34291";"7334";"FR2112009";"4.2       ";"Restauration / amélioration du régime hydrologique";"Etangs :
+
+- Limiter le dérangement des oiseaux nicheurs
+
+- Conservation et gestion adaptée des roselières
+
+- Eviter l'atterrissement de l'étang
+
+- création de chenaux favorisant l'avifaune
+
+- Pas de création d'étangs "" piscines """;;
+"34292";"7336";"FR2112011";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34293";"7336";"FR2112011";"4.0       ";"Autres mesures liées aux zones humides";;;
+"34294";"7336";"FR2112011";"3.1       ";"Restauration / amélioration des habitats forestiers";;;
+"34295";"7337";"FR2112012";"4.2       ";"Restauration / amélioration du régime hydrologique";;;
+"34296";"7337";"FR2112012";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34297";"7337";"FR2112012";"4.0       ";"Autres mesures liées aux zones humides";;;
+"34298";"7337";"FR2112012";"3.1       ";"Restauration / amélioration des habitats forestiers";;;
+"34299";"7454";"FR8201748";"3.2       ";"Ajustement de la gestion forestière";"- Developpement d'une sylviculture alternative au ""tout peuplier""";";91E0;91F0";
+"34300";"7454";"FR8201748";"6.1       ";"Établissement d'aires/espaces protégé(e)s ";"Création de la RNN.
+Mise en libre évolution de l'ile de Noyés et interdiction de présence humaine.";";91F0;91E0";
+"34306";"7557";"FR2500086";"5.0       ";"Autres mesures liées aux habitats marins";;";1140;1170;1310;1320;1330";
+"34307";"7557";"FR2500086";"7.0       ";"Autres mesures liées à la gestion des espèces";;;
+"34315";"7806";"FR2200399";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;;
+"34339";"8152";"FR2500100";"4.0       ";"Autres mesures liées aux zones humides";"Contrat N2000 Tourbières";;
+"34340";"8152";"FR2500100";"6.1       ";"Établissement d'aires/espaces protégé(e)s ";"Achat par CD61 (projets RBD et RBI)";;
+"34341";"8152";"FR2500100";"3.2       ";"Ajustement de la gestion forestière";"PDH Ecouves";;
+"34342";"8152";"FR2500100";"2.0       ";"Autres mesures liées aux activités agricoles";"Evaluations d'incidences";;
+"34343";"8152";"FR2500100";"4.1       ";"Restauration / amélioration de la qualité de l'eau";"Contrats N2000";;
+"34344";"8152";"FR2500100";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";"MAEt et MAEc";;
+"34353";"8471";"FR5300004";"4.4       ";"Restauration des espaces côtiers";;;
+"34354";"8492";"FR5300027";"4.0       ";"Autres mesures liées aux zones humides";;";2190";
+"34355";"8492";"FR5300027";"7.0       ";"Autres mesures liées à la gestion des espèces";;";2190;2130";
+"34356";"8492";"FR5300027";"3.1       ";"Restauration / amélioration des habitats forestiers";;";2170;2190";
+"34357";"8492";"FR5300027";"8.1       ";"Gestion des déchets urbains et industriels";;";1210;1220";
+"34358";"8492";"FR5300027";"1.1       ";"Pas de mesures nécessaires pour la conservation de l'habitat/espèce";;";1110";
+"34359";"8492";"FR5300027";"2.1       ";"Maintien des prairies et d'autres habitats ""ouverts""";;";4030";
+"34360";"8492";"FR5300027";"4.4       ";"Restauration des espaces côtiers";;";2190;1230;2110;2120;2130";
